@@ -482,6 +482,8 @@ class SDWebUI(BaseModel):
     sampler_index: str = 'DPM++ SDE Karras'
     filter_nsfw: bool = True
     denoising_strength: float = 0.45
+    width: int = 512
+    height: int = 512
     steps: int = 25
     enable_hr: bool = False
     seed: int = -1
