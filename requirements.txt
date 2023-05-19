@@ -1,4 +1,4 @@
-graia-ariadne==0.11.3
+graia-ariadne==0.11.5
 graiax-silkcoder
 revChatGPT==4.2.3
 toml~=0.10.2
@@ -15,7 +15,7 @@ pygments~=2.15.1
 imgkit~=1.2.3
 qrcode~=7.4.2
 openai~=0.27.4
-EdgeGPT==0.3.5
+EdgeGPT==0.3.8.1
 aiohttp~=3.8.4
 OpenAIAuth~=0.3.6
 urllib3~=1.26.15
@@ -24,7 +24,7 @@ BingImageCreator~=0.1.5
 requests~=2.28.2
 uuid~=1.30
 
-python-telegram-bot==20.2
+python-telegram-bot==20.3
 aiocqhttp~=1.4.3
 tls-client
 python-dateutil~=2.8.2
